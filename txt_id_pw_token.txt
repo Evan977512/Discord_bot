@@ -1,0 +1,17 @@
+app_id: 
+1028094427920609343
+
+public key: 
+151f8f3a04eb56d5d1074845cda7b0b612103dcc1f32494d1ed35ee97b4e7ba5
+
+client_id: 
+1028094427920609343
+
+client_secret: 
+bCsaV8GG9eqd_jO8dx9ZqzNrQlt_LJeT
+
+token: 
+MTAyODA5NDQyNzkyMDYwOTM0Mw.GDdkXw.YXY0f4soWl3DsEc9mgZ8dALeUz0jdZo99W-cRQ
+
+URL: 
+https://discord.com/api/oauth2/authorize?client_id=1028094427920609343&permissions=2048&scope=bot
